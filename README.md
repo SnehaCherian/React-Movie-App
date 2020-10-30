@@ -1,3 +1,9 @@
+	A movie application showing popular movies using ReactJS, Redux and Movie DB API.
+	User can search movies and find movie details like movie summary, running time, IMDB rating, budget, revenue, directors and actors.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
